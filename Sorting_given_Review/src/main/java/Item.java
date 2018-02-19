@@ -1,1 +1,1 @@
-package main.java;public final class Item {        public int key;        //constructor        public Item(int keyValue) {                 key = keyValue;        }        // further components and methods}
+package main.java;/* * Item.java * @author amehlhas * 2/19/2019 * A basic class to initlize item objects with int attribut as their key (ID) */public final class Item {        public int key;        //constructor        public Item(int keyValue) {                 key = keyValue;        }        // further components and methods}
